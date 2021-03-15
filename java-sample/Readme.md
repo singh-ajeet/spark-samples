@@ -1,5 +1,5 @@
-# OCI Dataflow sample application
-This application is aggregation all late responded calls by department or agency
+# Spark Java sample application
+This application aggregates all late responded calls by department or agency
 
 ### Build
  - Build fat jar
